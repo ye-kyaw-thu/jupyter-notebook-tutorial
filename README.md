@@ -5,6 +5,9 @@ Jupyter Notebook Tutorial for Myanmar Students
 
 Jupyter notebook ကို စတင်လေ့လာမယ့်သူများအတွက် အဓိကကျတဲ့ facility အားလုံးလိုလိုကို ကျွန်တော်အချိန်ယူလေ့လာပြီး တတ်နိုင်သလောက် ကြိုးစားရှင်းပြထားပါတယ်။ Jupyter notebook ကို မြန်မာ ကျောင်းသား၊ ကျောင်းသူတိုင်း သုံးတတ်စေချင်ပါတယ်။ ဆရာ၊ ဆရာမတွေအတွက်လည်း သင်ကြားရေးမှာ အသုံးဝင်မှာမို့ လေ့လာကြည့်ကြပါလို့ တိုက်တွန်းပါတယ်။ အထူးသဖြင့် မြန်မာကျောင်းသားအားလုံးအတွက် share လုပ်ပေးကြစေချင်ပါတယ်။
 
+1. [How to Installation Jupyter Notebook](https://github.com/ye-kyaw-thu/jupyter-notebook-tutorial/blob/master/jupyter-notebook-installation.ipynb)  
+2. [Introduction to Jupyter Notebook](https://github.com/ye-kyaw-thu/jupyter-notebook-tutorial/blob/master/introduction-to-Jupyter-Notebook.ipynb)  
+
 Enjoy learning Jupyter notebook in Myanmar language!
 
 လေးစားစွာဖြင့်
